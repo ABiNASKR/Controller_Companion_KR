@@ -2,6 +2,7 @@
 Controller Companion 한글패치
 
 적용 방법
+
 0. Controller Companion 종료
 1. 해당 파일을 컴퓨터에 저장
 2. Controller Companion을 설치한 폴더로 진입
